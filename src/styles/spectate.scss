@@ -426,14 +426,18 @@ header {
   margin: 30px auto 25px auto;
 
   img {
-    width: 100%;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
   }
 
   .image-caption-text {
-    font-size: 15px;
+    text-align: center;
+    font-size: clamp(8px, 2vw, 16px) !important;
     font-family: $georgia;
     color: #666;
-    margin: 7px 0 0 0;
+    margin: auto;
     padding: 0 $gbody-padding / 2;
     line-height: 1.3;
 

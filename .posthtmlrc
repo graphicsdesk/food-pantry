@@ -7,12 +7,397 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The Food Pantry at Columbia co-founders Ramond Curtis, GS ’18, and Michael Higgins, GS ’22, SPS ’24, started from scratch in 2016 with not much more than a pop-up in a Lewisohn Hall closet, some nonperishable food, and a vision."
+          },
+          {
+            "type": "text",
+            "value": "When they arrived on campus, the School of General Studies duo—both involved in student government—identified food insecurity as a pressing and unaddressed issue in their college as well as Universitywide."
+          },
+          {
+            "type": "text",
+            "value": "“I immediately came to realize that there is a whole subset of the student population … who felt like they had to decide whether they were going to eat or whether they were going to purchase their textbooks or pay their rent,” Higgins said."
+          },
+          {
+            "type": "text",
+            "value": "With help from the General Studies Student Council and Columbia’s First-Generation Low-Income Partnership chapter, Curtis said he worked “like yin and yang” with Higgins to create what was then known as the GSSC Food Bank—the first of its kind in the Ivy League. Jump-started by a <a href=\"https://www.columbiaspectator.com/news/2016/04/20/gssc-votes-fund-new-food-bank-gs-students/\">$1,000 allocation</a> from GSSC, the pantry began handing out food from a closet in Lewisohn’s General Studies student lounge, reaching 100 disbursements within months."
+          },
+          {
+            "type": "text",
+            "value": "About three days into operations, however, Higgins ran into a major problem. The pantry had exhausted all of its food, and he had to place students on a waitlist. “Are we sure we’re gonna have enough food by Friday?” he recalled one student repeatedly asking. It was only Wednesday."
+          },
+          {
+            "type": "text",
+            "value": "“That hit me so hard,” Higgins said. “People are paying 60, 70, 80-plus thousand dollars a year to go to this school, and they essentially have to beg for food. No, that’s not right. That’s not right at all. After that particular session was over, I immediately reached out to Ramond, and I said, ‘Ramond, I’m sick to my gut right now. I don’t understand how this problem is this big.’”"
+          },
+          {
+            "type": "text",
+            "value": "From then on, the food bank skyrocketed in growth, earning official recognition from the Student Governing Board, securing a permanent space on the fifth floor of Lerner Hall, and eventually rebranding as the Food Pantry at Columbia to support students across the University."
+          },
+          {
+            "type": "text",
+            "value": "The Food Pantry has now made almost 10,000 disbursements to nearly 1,800 undergraduate and graduate students since its founding, according to <a href=\"https://thefoodpantry.us/real-time-data/\">real-time data</a> compiled by the organization. As of Wednesday, the data shows that the pantry has given out 1,758 disbursements in 2023 alone."
+          },
+          {
+            "type": "text",
+            "value": "But as demand increased over the years, the pantry faced obstacles in obtaining funding and pushing for a shift in oversight from students to administration—until now."
+          },
+          {
+            "type": "text",
+            "value": "For the first time ever, the Food Pantry at Columbia has officially found an institutional home this year, nestled in a new and revolutionary center dedicated to adopting a 360-degree lens in approaching student needs."
+          },
+          {
+            "type": "subhed",
+              "value": "Institutionalizing the food pantry"
+          },
+          {
+            "type": "text",
+            "value": "Joseph Defraine Greenwell, the senior vice president for student affairs in University Life, said he has been in dialogue with Higgins about ways to provide more administrative support to the food pantry since spring 2020."
+          },
+          {
+            "type": "text",
+            "value": "But action stalled as a result of the pandemic, and conversations with administrators about institutionalization did not pick up again until early 2022, Greenwell said."
+          },
+          {
+            "type": "text",
+            "value": "In the fall of that year, University Life established the <a href=\"https://www.columbiaspectator.com/news/2022/10/25/new-center-for-student-success-and-intervention-aims-to-reimagine-student-conduct/\">Center for Student Success and Intervention</a>, an administrative unit seeking to reenvision student conduct by addressing the underlying reasons students violate institutional policies. Spearheaded by CSSI Associate Vice President Claudia Marin Andrade, the center has three divisions: student conduct, case management, and a student support specialist."
+          },
+          {
+            "type": "text",
+            "value": "Greenwell and Andrade hinted at a formal partnership with the Food Pantry in an October 2022 interview with Spectator but largely kept the details under wraps, as the center was in the early stages of development."
+          },
+          {
+            "type": "text",
+            "value": "“The student might be managing basic needs insecurity for a period of time, and that may have led to some of the behavior or decisions that they’ve made,” Greenwell said at the time. “How are we providing more support to the Food Pantry and expanding our thinking of what basic needs are and what our students might need at any given time?”"
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2022/10/25/new-center-for-student-success-and-intervention-aims-to-reimagine-student-conduct/\"><i>New Center for Student Success and Intervention aims to reimagine student conduct</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "CSSI’s website and online materials launched later in the spring 2023 semester, marking the public reveal of its newly-formed integration with the Food Pantry. The center hired Greg Nelson, who currently oversees the pantry’s operations, as a student support specialist."
+          },
+          {
+            "type": "text",
+            "value": "Nelson, a New York City native from Harlem, brings to the position a network of connections to city resources from his prior jobs as a public health advisor and a community health liaison with the New York City Health and Hospitals Corporation. He also worked as an advisor at the School of Professional Studies."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DWCJHVKVS5CGFE5QRMOREAHIJA.jpeg",
+              "caption": "",
+              "credit": "Courtesy of Columbia University Life"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Before Nelson joined the team in October 2022, Greenwell shared job descriptions with Higgins and Lily Drabkin, TC ’23, the former director of the Food Pantry and its board’s vice chair of development. Students were heavily involved in hiring, Greenwell and Drabkin said, from interviewing candidates to helping in Nelson’s eventual selection."
+          },
+          {
+            "type": "text",
+            "value": "“Although Greg is serving in an administrative capacity, we’re really focused on making sure the students’ voices are heard, and the students’ priorities remain the Food Pantry’s priorities,” Drabkin said."
+          },
+          {
+            "type": "text",
+            "value": "“It’s his full-time job to support not only the Food Pantry but students who might have similar but differing needs,” she added. “Greg helps not only with access to food but also things like students who need access to housing or students who might be in abusive situations that need immediate help. Greg was hired … to go above and beyond what the Food Pantry does.”"
+          },
+          {
+            "type": "text",
+            "value": "The primary reasons Greenwell cited for the institutionalization of the Food Pantry included removing “some of the burden off of the students” and ensuring sustainability, considering the brevity of the student leadership life cycle. Still, he emphasized the importance of collaborating with students and ensuring “we continually empower” them."
+          },
+          {
+            "type": "text",
+            "value": "“I love the pantry. The pantry deserves to be somebody’s number one priority, even if as a master’s student it can’t be mine because my program has to be my first priority,” Drabkin said. “The students are still leading, but the administration is simply providing additional support. And that support is highly necessary.”"
+          },
+          {
+            "type": "text",
+            "value": "Higgins said the Food Pantry “should not ever again be run by full-time students,” but students should help and remain “the face” of its operations. Curtis said the “risks involved of it failing” remained too high as a solely student organization and highlighted the potential research opportunities brought by the pantry’s institutionalization."
+          },
+          {
+            "type": "text",
+            "value": "“Part of what we can do is help reduce hurdles,” Greenwell said. “If you hit a wall on this particular matter, then we can activate it in a different way and support trying to manage that [issue better] than maybe as a student organization.”"
+          },
+          {
+            "type": "text",
+            "value": "Nelson described the relationship between him and the pantry’s student leaders as “give and take,” in which he listens to their “best practices” and “pain points” while assisting in brainstorming solutions. While he goes to the Lerner location as frequently as possible, Nelson said, he is also “mindful of student privacy” and will often “fade into the background” during operation hours."
+          },
+          {
+            "type": "text",
+            "value": "One of the reasons the Food Pantry best fits into the CSSI is the way it can be embedded into the center’s case management and conduct processes, Andrade said. Food insecurity could be one of several unmet needs for a student, she explained, so the pantry serves as an “entry point.”"
+          },
+          {
+            "type": "text",
+            "value": "“In a [conduct] hearing, if something’s happening, they’re going to ask, ‘Hey, did you have your meals today?’” Andrade said. “We’re having a different approach to our students. … It’s not sterile. It’s really warm and inviting and caring.”"
+          },
+          {
+            "type": "text",
+            "value": "Greenwell reiterated that the CSSI’s central function was to “support, not adjudicate,” in addition to identifying the root cause of behaviors or violations. Rather than looking through a deficit model, Greenwell said he wants to uplift and celebrate all students—no matter their needs."
+          },
+          {
+            "type": "text",
+            "value": "“I actually think CSSI can be one of the most transformational things for this campus,” he said. “[It’s] going to really change the student experience at Columbia.”"
+          },
+          {
+            "type": "subhed",
+              "value": "The pantry’s fight for institutionalization"
+          },
+          {
+            "type": "text",
+            "value": "But the Food Pantry’s efforts to obtain administrative support came with years of challenges and, sometimes, resistance."
+          },
+          {
+            "type": "text",
+            "value": "At first, major roadblocks stood in the way of the pantry’s expansion. Much-needed funding was hard to come by, especially at the institutional level, and the pantry initially relied on financial support from various student councils. A year into its operations in 2017, the pantry received <a href=\"https://www.columbiaspectator.com/news/2018/02/01/food-bank-creators-hope-new-data-will-drive-councils-to-increase-funding/\">just under $740</a> total from the four undergraduate councils, Spectator previously reported."
+          },
+          {
+            "type": "text",
+            "value": "Though the council funding helped, Higgins said it appeared “disingenuous” to solely use student-life fees to fund the service. Higgins wanted the pantry to move away from council funding and instead think bigger. “Let’s go after the administration,” he said."
+          },
+          {
+            "type": "text",
+            "value": "On one occasion, Curtis said he got into a “very uncomfortable confrontation” with a former top administrator whose graduate school reported a very high usage among the student population, according to the Food Pantry’s data. Curtis claimed the administrator initially refused to provide funding to the pantry and questioned the accuracy of its data."
+          },
+          {
+            "type": "text",
+            "value": "While the pantry walked away from that meeting with a gift of $5,000 a year, Curtis said it was “absurd” to have a monthslong back-and-forth for a relatively “shoestring budget.”"
+          },
+          {
+            "type": "text",
+            "value": "“Because I stood my ground, we ended up getting the money,” Curtis said. “But it shouldn’t be that way.”"
+          },
+          {
+            "type": "text",
+            "value": "In 2018, the Food Pantry became a member of the <a href=\"https://www.foodbanknyc.org/\">Food Bank for New York City</a>, which allowed it to purchase nonperishable items at lower than wholesale prices. With a few grants here and there, the Food Pantry struck a huge financial milestone in 2019 with a yearly <a href=\"https://www.columbiaspectator.com/news/2019/04/30/food-pantry-at-columbia-to-receive-5000-in-annual-funding-from-columbia-dining-through-partnership-with-swipe-out-hunger/\">$5,000 commitment from Columbia Dining</a> in perpetuity—the pantry’s first award from the University’s central administration."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia Dining has long supported the aim of the Food Pantry,” Vicki Dunn, Columbia Dining’s assistant vice president, wrote in a statement to Spectator. “Together with student leaders and partners across the University, we continue to identify and implement solutions so that we may eventually eliminate food insecurity for our student community.”"
+          },
+          {
+            "type": "text",
+            "value": "Higgins called Dunn “the single biggest proponent” of the Food Pantry, alongside a handful of administrators who supported the effort from the very beginning, including Greenwell and General Studies Dean Lisa Rosen-Metsch. Weeks after Columbia Dining’s pledge, General Studies <a href=\"https://www.columbiaspectator.com/news/2019/05/03/gs-pledges-50k-to-the-food-pantry-over-next-five-years/\">committed $50,000</a> over five years to the pantry."
+          },
+          {
+            "type": "text",
+            "value": "One of the most difficult schools to “break through to” was Columbia College, Higgins said. He said “no one wanted anything to do” with the Food Pantry, especially the Columbia College Student Council at the time, though Higgins clarified this has not been the case for the last few councils. Instead, he said, many people believed the problem was unique to General Studies."
+          },
+          {
+            "type": "text",
+            "value": "The misconception that food insecurity existed as an isolated issue rather than one affecting the whole University was another major barrier to receiving more widespread support from the administration and beyond, Curtis said. It was easier for Columbia to see the pantry as “a philanthropic project that students do” rather than a need, he added."
+          },
+          {
+            "type": "text",
+            "value": "“Food insecurity comes with this tone of failure,” Curtis said. “A university accepting the fact that they have a population large enough that’s experiencing food insecurity that they need to have a food pantry and services to provide to that population is admitting some kind of failure.”"
+          },
+          {
+            "type": "text",
+            "value": "However, the immense growth in demand for the Food Pantry during the pandemic proved its significant role within Columbia, Higgins and Curtis said. Although Curtis anticipated a dip in usage due to a reduction in the student population, the data shows that the pantry’s disbursements doubled from fall 2019 to fall 2020, even as the campus population dwindled."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "number.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Higgins said the pantry was not prepared for the shifts of the pandemic, but he knew it needed to remain open. The University designated the Food Pantry as an essential resource and provided it with a temporary space in JJ’s Place after Lerner closed. But, its two recently-established satellite locations at Barnard and the Columbia University Irving Medical Center closed about a month after opening."
+          },
+          {
+            "type": "text",
+            "value": "The Food Pantry then completely shifted its systems and operations, permanently migrating to an <a href=\"https://thefoodpantry.us/\">e-commerce page</a> where students could order their disbursements online. At the height of the pandemic, the pantry also launched a disbursement drop-off initiative in which volunteers delivered food to students’ doors."
+          },
+          {
+            "type": "text",
+            "value": "“It was a lifesaver, and it was a game changer because that in itself allowed our numbers to spike,” Higgins said. “Those two factors really drove home the point that the Food Pantry at Columbia was here to stay, and the pandemic wasn’t going to stop the use.”"
+          },
+          {
+            "type": "text",
+            "value": "Even with large strides in usage and fundraising, Curtis said the Food Pantry was “led to believe” for many years that institutionalization “was on the verge of happening” but was repeatedly let down. Higgins said that what propelled administrative bodies across Columbia to take the pantry even more seriously was data so robust “they couldn’t dispute it.”"
+          },
+          {
+            "type": "text",
+            "value": "“What really turned the tide was the data,” Higgins said."
+          },
+          {
+            "type": "text",
+            "value": "Of the pantry’s 9,970 total disbursements since its founding in 2016, General Studies leads with 2,088 disbursements, the data shows. The School of Engineering and Applied Science graduate programs and the Graduate School of Arts and Sciences followed with 1,707 and 1,042 disbursements, respectively. Behind Teachers College, Columbia College holds the fifth-highest amount of disbursements at 811."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "disbursements_total.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The pantry has handed out 1,758 disbursements so far this year, with SEAS graduate programs ranking the highest at 337—almost 20 percent of disbursements. In 2023, usage at GSAS and Teachers College has slightly risen above General Studies, which reported 208 disbursements. Columbia College, the University’s largest undergraduate school, was the undergraduate school with the second-highest usage at 91 disbursements."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "disburse_this_year.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Higgins expressed a desire to exercise caution in interpreting the Food Pantry’s data, especially in understanding the positionality of General Studies. While historical data shows General Studies at the top in terms of total disbursements, Higgins pointed to high rates of usage at SEAS graduate programs, GSAS, and Columbia College. He said the proportion of usage at General Studies is “significantly less” now compared to when the pantry started."
+          },
+          {
+            "type": "text",
+            "value": "External data and policies from the administration still have displayed a particular concern for General Studies. The General Studies Office of Educational Financing initiated a pilot program to <a href=\"https://www.columbiaspectator.com/news/2020/01/22/gs-to-provide-subsidize-meal-plans-for-select-low-income-gs-students/\">subsidize meal plans</a> for its low-income students following a <a href=\"https://www.columbiaspectator.com/news/2019/03/28/close-to-40-percent-of-non-joint-or-dual-program-gs-students-experience-food-insecurity-survey-shows/\">2018 survey</a> of General Studies students in which nearly 40 percent of respondents said they had experienced high or very high food insecurity."
+          },
+          {
+            "type": "text",
+            "value": "Higgins attributed the high levels of pantry usage at General Studies to a variety of factors. He said it was possible that General Studies students, who tend to be older and have more life experience, may be more likely to ask for help. Higgins also referenced the smaller percentage of General Studies students who have <a href=\"https://www.columbiaspectator.com/news/2022/11/14/students-in-general-studies-demand-changes-to-university-policies-regarding-financial-aid-diplomas/\">financial aid needs met</a> compared to Columbia College and SEAS—as proven by Columbia’s recent <a href=\"https://www.columbiaspectator.com/news/2022/09/10/in-us-news-scandal-a-confession-an-apology-and-previously-unreleased-data-emerge/\">Common Data Sets</a>."
+          },
+          {
+            "type": "text",
+            "value": "Curtis said data on pantry usage was tied to the population General Studies serves, mainly nontraditional students “who would otherwise not have this kind of opportunity to go to an Ivy League.” A combat veteran himself, Curtis specifically cited General Studies’ <a href=\"https://www.columbiaspectator.com/news/2023/04/27/general-studies-receives-25-million-donation-to-support-military-veterans/\">high proportion of student veterans</a> and first-generation students."
+          },
+          {
+            "type": "text",
+            "value": "But the data does not paint a full picture generally, Andrade said. She and Nelson said their team came to realize after visiting nearby pantries and soup kitchens that students are going to local partners for food when the Lerner location is not open."
+          },
+          {
+            "type": "text",
+            "value": "The most recent <a href=\"https://universitylife.columbia.edu/sites/default/files/content/docs/2020%20Columbia%20Student%20Well-Being%20Survey%20Report%20FINAL.pdf\">Columbia Student Well-Being Survey</a>—administered Universitywide in 2020—revealed that 8 percent of 9,096 respondents reported using the Food Pantry, and less than a quarter said they had used services at University Life more broadly. It also found about 29 percent of students have at least some difficulty in paying for basic necessities, with 39 percent of those respondents struggling to pay for food."
+          },
+          {
+            "type": "text",
+            "value": "CSSI’s latest discoveries, however, suggest that more students may be unaccounted for in these datasets, and the center is continuously looking for more efficient ways of collecting comprehensive information."
+          },
+          {
+            "type": "text",
+            "value": "In data collection, Curtis said it was important to draw a distinction between hunger and food insecurity, which refers to “the impact that it has on your mental capacity to do things.” Instead of phrasing questions around whether a student thinks they are food insecure, Curtis emphasized asking about decisions, such as whether they have recently eaten less or skipped meals because they did not have the money to buy enough food."
+          },
+          {
+            "type": "text",
+            "value": "Current usage rates have been enough to catch the eye of the undergraduate student councils, despite graduate schools taking up a majority of disbursements. Em Chmiel, CC ’25, the former CCSC first-generation and financial security representative, said the council launched a winter breaks meal initiative in 2019 to cater food and provide Flex dollars for students staying on campus for the holidays while dining halls were closed."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "disburse_undergrad_waffle.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The program expanded into the 2020-21 academic year with an inflated need when COVID-19 made it difficult for more students to travel home. Chmiel said students advocated for Columbia Dining to keep at least one hall open during winter break until 2021, when Faculty House <a href=\"https://dining.columbia.edu/news/columbia-dining-faculty-house-open-limited-service-during-winter-break\">announced</a> it would remain open for limited service."
+          },
+          {
+            "type": "text",
+            "value": "Multiple student groups—CCSC’s Financial Accessibility Task Force and General Body, First-Generation Low-Income Network Executive Board, and the Food Pantry—sent a <a href=\"https://drive.google.com/file/d/10URkd38rBDe89txAyxFkj2i1pTRVA0aU/view?usp=sharing\">letter</a> to Columbia’s board of trustees during the 2021-22 academic year detailing key issues for first-generation low-income students on campus. Chmiel and other students identified student responsibility, food insecurity, housing insecurity, textbook affordability, and financial aid transparency as top areas for growth for the University."
+          },
+          {
+            "type": "text",
+            "value": "“Greater food security measures are needed to ensure no student on campus is hungry,” the letter read. “It is unacceptable that student organizations have to shoulder the burden of addressing food insecurity on campus. … There should be long-lasting, institutional support of these programs, so these resources are never put at risk for the students whose lives depend on it.”"
+          },
+          {
+            "type": "text",
+            "value": "Though Chmiel was happy to see the Food Pantry secure institutional support, she noted that the gap should have been addressed by Columbia to begin with and that administrative intervention “is not a trend in FGLI issues.” During spring 2023, she said she worked with administrators on a student advisory group to lay out FLI-related recommendations to the board of trustees, which she described as an “unprecedented level of action.”"
+          },
+          {
+            "type": "text",
+            "value": "“A lot of that organizing has to come from students themselves or student councils. We have to prove to the administration that … we have an idea, and it can work. That’s something frustrating,” Chmiel said. “But I think with the recent action with the board of trustees, things are moving in a better way.”"
+          },
+          {
+            "type": "subhed",
+              "value": "What’s next for the Food Pantry"
+          },
+          {
+            "type": "text",
+            "value": "This past spring semester represented a “transitional period” for the Food Pantry and CSSI, Drabkin said, as Higgins stepped away and Nelson became involved. Although she said such transitions “can be dangerous,” Drabkin expressed confidence in University Life’s ability to create infrastructure to ground the pantry."
+          },
+          {
+            "type": "text",
+            "value": "With CSSI’s help, the Food Pantry celebrated the grand reopening of its satellite location on the medical center in March, a major step in revitalizing cross-campus efforts that were impeded by the pandemic."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "insta1.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Nelson said the location was an “amazing initiative” and involved strategizing the hours of operation to fit differing students’ needs. Counterparts at the medical center suggested to Nelson that the pantry remain open after 5 p.m. and on weekends to accommodate for students’ clinicals. The medical center location is open on Monday and Thursday from 6 p.m. to 9 p.m. while the Lerner location is open on Wednesday and Thursday from 4 p.m. to 7 p.m., allowing students to access either pantry throughout the week."
+          },
+          {
+            "type": "text",
+            "value": "Drabkin said the organization has been working on the reopening of the satellite location previously housed in Barnard Hall, but efforts have been postponed due to construction of the Francine A. LeFrak Foundation Center for Well-Being, slated for completion by fall 2024."
+          },
+          {
+            "type": "text",
+            "value": "“We’ve always been open to partnering with them and supporting initiatives that address food insecurity on campus,” former Student Government Association President Tiffany Vo, BC ’23, wrote in a statement to Spectator last year. “SGA has made separate efforts to combat food security through our consistent advocacy for the swipe-it-forward program, where Barnard students can donate their excess swipes towards an emergency fund for any student to use.”"
+          },
+          {
+            "type": "text",
+            "value": "The Food Pantry has been toying with the idea of establishing a location at the Manhattanville campus, Drabkin said. Nelson said he is looking to expand with other vendors and connect with local pantries to “paint a bigger picture.”"
+          },
+          {
+            "type": "text",
+            "value": "Another goal for the pantry is offering fresh food options by leveraging community partnerships with farmers markets and other resources, Andrade said. A University Life spokesperson wrote in a statement to Spectator that the Food Pantry is in the “final stages of establishing a formal relationship with a local organization that will allow it to provide fresh produce.”"
+          },
+          {
+            "type": "text",
+            "value": "“We hear our students saying, ‘We want a fruit or vegetable that doesn’t come out of a can,’” Andrade said. “I understand that. We would love to provide that.”"
+          },
+          {
+            "type": "text",
+            "value": "The Food Pantry is also deploying a new software, called <a href=\"https://www.pantrysoft.com/\">PantrySOFT Customizable Intake Solution</a>, to make it easier for students to request disbursements and provide for more efficient management of the pantry, according to the spokesperson. PantrySOFT will allow students to input feedback and ask for additional resources."
+          },
+          {
+            "type": "text",
+            "value": "In the future, Greenwell said he would like to introduce a programmatic aspect to the Food Pantry at Columbia to create opportunities for events, celebration, and awareness. One idea he specifically mentioned was offering cooking classes on how to prepare quick and nutritious meals, especially for students without prior experience."
+          },
+          {
+            "type": "text",
+            "value": "“The Food Pantry has been and is actively working to build relationships across Columbia and the greater community to explore new ways to bring awareness to and combat food insecurity while promoting food with high nutritional value,” the spokesperson said."
+          },
+          {
+            "type": "text",
+            "value": "The most rewarding part of sustaining the Food Pantry has been working with other students and seeing the impacts firsthand, Drabkin and Curtis said. Higgins said his time at the pantry inspired him to pursue nonprofit management at the School of Professional Studies and work for the New York Common Pantry."
+          },
+          {
+            "type": "text",
+            "value": "“Thinking back to the Barnard student, Lily, five years ago, who picked up groceries … and then thinking about where I am now. I loved Columbia so much, I couldn’t imagine going to grad school here, let alone becoming the head of this organization that helped me,” Drabkin, who attended Barnard in spring 2017 as a domestic exchange student, said. “It’s really a personal success story for me.”"
+          },
+          {
+            "type": "text",
+            "value": "While Drabkin, Higgins, and Curtis have all since stepped back from the Food Pantry, student leadership will remain a strong facet of the CSSI’s partnership. Higgins highlighted the strides in food insecurity no longer being as “taboo” a subject on campus and urged students in need to reach out and use the pantry’s resources."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia is an amazing institution. It draws people from every walk of life,” Nelson said. “I just want to make sure that I’m doing what I can to bring my talents to support those students who are transforming their lives.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>University News Editor Isabella Ramírez can be contacted at </i><a href=\"mailto:isabella.ramirez@columbiaspectator.com\"><i>isabella.ramirez@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/isabellasrmrz\"><i>@isabellasrmrz</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Senior Staffer Trinity Suma can be contacted at </i><a href=\"mailto:trinity.suma@columbiaspectator.com\"><i>trinity.suma@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Demand for Columbia’s food pantry has grown for years. Now, the administration is stepping in.",
+        "date": "September 14, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Isabella-Ramirez/\">Isabella Ramírez</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Trinity-Suma/\">Trinity Suma</a>.",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CIA56BLDYZFB7LPIF6JKWPIVYM.jpeg",
+        "cover_caption": "Courtesy of University Life",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1fGLKddXIqX5Y6AlGkwil_aFwfVNhB72T_HSfvuaBHCs/edit"
       }
     }
   }
